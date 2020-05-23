@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.btnOut_team2:
                 // Player Out Update
                 outPlayerTeam2++;
-                if(outPlayerTeam1 <= 10){
+                if(outPlayerTeam2 <= 10){
                     tvOut_team2.setText(String.valueOf(outPlayerTeam2));
                 }else {
                     Toast.makeText(MainActivity.this, "Only 10 Members are allowed to Play", Toast.LENGTH_SHORT).show();
