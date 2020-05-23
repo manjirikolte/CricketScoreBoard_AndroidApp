@@ -27,3 +27,8 @@ Android device running with Android OS 4.0.4 (API Level 15) or above. Designed f
 
 ## Screenshots
 <img src="https://github.com/manjirikolte/CricketScoreBoard_AndroidApp/blob/master/ScoreBoard%20Screenshot1.jpg" width="300" height="600"> | <img src="https://github.com/manjirikolte/CricketScoreBoard_AndroidApp/blob/master/ScoreBoard%20Screenshot2.jpg" width="300" height="600">
+
+## LICENSE
+
+Licensed under the <a href= "https://github.com/manjirikolte/CricketScoreBoard_AndroidApp/blob/master/LICENSE.txt"> MIT License </a>.
+
