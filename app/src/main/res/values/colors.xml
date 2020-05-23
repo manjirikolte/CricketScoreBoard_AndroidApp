@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Colors for team1 -->
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlue">#039BE5</color>
+    <color name="colorLightBlue">#2196F3</color>
+    <color name="colorDarkBlue">#01579B</color>
+
+    <color name="colorDarkPink">#BB0146</color>
+</resources>

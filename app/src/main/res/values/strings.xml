@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cricket_Score Board</string>
+    <string name="cricket_image">Cricket Image</string>
+    <string name="team_2">Team 2</string>
+    <string name="player_out">Player Out</string>
+    <string name="_6">6</string>
+    <string name="_4">4</string>
+    <string name="run">Run</string>
+    <string name="team_1">Team 1</string>
+    <string name="out">Out</string>
+    <string name="score">Score</string>
+    <string name="_0">0</string>
+    <string name="reset_scores">Reset Scores</string>
+</resources>
